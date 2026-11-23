@@ -7,7 +7,7 @@ An interactive sales analysis dashboard built using Microsoft Excel to analyse r
 
 ## Dashboard Preview
 
-![FNP Sales Analysis Dashboard](FNP_sales_Dashboard.png)
+![FNP Sales Analysis Dashboard](FNP_Sales_interactive_dashboard.png)
 
 ## 1. Project Overview
 
